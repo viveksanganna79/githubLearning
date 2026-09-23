@@ -1,1 +1,2 @@
 Created test2.txt
+Second line of this file
